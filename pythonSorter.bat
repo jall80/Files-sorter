@@ -1,1 +1,0 @@
-python pythonSorter.py --dir %1
