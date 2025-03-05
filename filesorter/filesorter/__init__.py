@@ -1,1 +1,0 @@
-# This file indicates that `filesorter` is a Python package
